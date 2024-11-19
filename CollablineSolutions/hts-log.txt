@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 14 Nov 2024 21:08:15 at https://0codezone.github.io/Magnitude/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://0codezone.github.io/Magnitude/index.html -O1 "D:\CollablineSolutions" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:08:54	Error: 	"Not Found" (404) at link https://0codezone.github.io/Magnitude/fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&subset=latin%2Cgreek%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic%2Cvietnamese%2Cgreek-ext&ver=5.8.1 (from https://0codezone.github.io/Magnitude/index.html)
+21:09:00	Error: 	"Not Found" (404) at link https://0codezone.github.io/Magnitude/wp-includes/wlwmanifest.xml (from https://0codezone.github.io/Magnitude/index.html)
+21:09:00	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://0codezone.github.io/Magnitude/index.html)
+21:09:00	Error: 	"Not Found" (404) at link https://0codezone.github.io/Magnitude/wp-content/uploads/2020/07/background.jpg?id=6246 (from https://0codezone.github.io/Magnitude/index.html)
+21:09:23	Error: 	Exit requested by shell or user
+21:09:26	Error: 	"Not Found" (404) at link https://0codezone.github.io/Magnitude/fonts.googleapis.com/css?family=Roboto:500%2C700%2C400 (from https://0codezone.github.io/Magnitude/index.html)
+21:09:26	Error: 	"Not Found" (404) at link https://www.sln-solutions.com/wp-content/plugins/LayerSlider/assets/static/layerslider/img/icon-muted-white.png (from https://0codezone.github.io/Magnitude/wp-content/cache/wpfc-minified/8wlj9ga4/brfio.css)
+21:09:26	Error: 	"Not Found" (404) at link https://www.sln-solutions.com/wp-content/plugins/LayerSlider/assets/static/layerslider/img/icon-unmuted-white.png (from https://0codezone.github.io/Magnitude/wp-content/cache/wpfc-minified/8wlj9ga4/brfio.css)
+21:09:26	Error: 	"Not Found" (404) at link https://www.sln-solutions.com/wp-content/themes/images/mouse_icon.png (from https://0codezone.github.io/Magnitude/wp-content/cache/wpfc-minified/eu625954/brfio.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 12 seconds : 124 links scanned, 115 files written (7933248 bytes overall) [2799370 bytes received at 38880 bytes/sec], 6827567 bytes transferred using HTTP compression in 84 files, ratio 19%, 9.7 requests per connection
+(9 errors, 0 warnings, 0 messages)
